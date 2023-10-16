@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayikoandrew
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning C and Java
+- 🌱 I’m currently learning Python and Java
 - 💞️ Just want to do open source. Don't know where to start
 - 📫 How to reach me on Twitter @Ayiko_andre
 
