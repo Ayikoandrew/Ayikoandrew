@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew
+- 👋 Hi, I’m Ayiko.
 
 <!---
 Ayikoandrew/Ayikoandrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
